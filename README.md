@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohammad-nazari
 - 👀 I’m interested in Industrial and IOT and AI
-- 🌱 I’m currently learning C++ standards libraries and devOps
+- 🌱 I’m currently learning C++ standards libraries and DevOps
 - 💞️ I’m looking to collaborate on IOT and AI projects
 - 📫 How to reach me: 
 Linkedin: mohammad-nazari
